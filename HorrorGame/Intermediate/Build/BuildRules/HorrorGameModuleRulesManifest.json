@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProjects\\HorrorGame\\Source\\HorrorGame\\HorrorGame.Build.cs",
+		"C:\\UnrealProjects\\HorrorGame\\Source\\HorrorGame.Target.cs",
+		"C:\\UnrealProjects\\HorrorGame\\Source\\HorrorGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

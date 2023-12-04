@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\horrorgame\\intermediate\\build\\win64\\unrealeditor\\inc\\horrorgame\\uht\\horrorgameplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\horrorgame\\intermediate\\build\\win64\\x64\\horrorgameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\horrorgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\horrorgame\\definitions.horrorgame.h",
+            "c:\\unrealprojects\\horrorgame\\source\\horrorgame\\horrorgameplayercontroller.h",
+            "c:\\unrealprojects\\horrorgame\\intermediate\\build\\win64\\unrealeditor\\inc\\horrorgame\\uht\\horrorgameplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

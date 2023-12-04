@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/HorrorGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/FirstPerson/Input/Actions/IA_Look.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/__ExternalActors__/Yuri/Map/MainMap/0/FB/YA1OA2JQEJDMDBAE1DVUVR.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/Yuri/Map/MainMap.umap",
+				"C:/UnrealProjects/HorrorGame/Content/__ExternalActors__/Yuri/Map/MainMap/4/YF/21UGM3BVICGCU3UWZLS015.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/__ExternalActors__/Yuri/Map/MainMap/9/2N/QNGUJ68LSDLUGF2EHUW83P.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/Yuri/Map/_GENERATED/KaoriYohana/CubeGridToolOutput_AFA9DC3F.uasset",
+				"C:/UnrealProjects/HorrorGame/Content/Yuri/Map/_GENERATED/KaoriYohana/CubeGridToolOutput_9F5B605D.uasset"
+			]
+		}
+	]
+}
